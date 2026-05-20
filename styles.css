@@ -1,0 +1,12 @@
+body {
+	background: black;
+}
+p {
+	color: blue;
+}
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
